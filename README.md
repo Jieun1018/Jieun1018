@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jieun choi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jieun choi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jieun-choi-a45077204" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jieun choi" height="30" width="40" /></a>
 <a href="https://instagram.com/euni_1018" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="euni_1018" height="30" width="40" /></a>
 </p>
 
