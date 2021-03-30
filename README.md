@@ -8,7 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jieun-choi-a45077204" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jieun choi" height="30" width="40" /></a>
-<a href="https://instagram.com/euni_1018" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="euni_1018" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,6 +19,8 @@
 
 <!--
 **Jieun1018/Jieun1018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a href="https://instagram.com/euni_1018" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="euni_1018" height="30" width="40" /></a>
 
 Here are some ideas to get you started:
 
